@@ -12,7 +12,7 @@ hero:
       link: /join/
     - theme: alt
       text: 联络我们
-      link: /tos/
+      link: /contact/
 
 features:
   - icon: 
